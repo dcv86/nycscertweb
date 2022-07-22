@@ -2,10 +2,10 @@
 ## Tips and Tricks! 
 
 ### Replit
-<ol> 
+<ul> 
   <li> Press the up or down key when compiling to quickly scroll to previously entered command line entries.</li>
   <li> Highlight code and press Command + / to convert to comments! </li>
-</ol>
+</ul>
   
   ### Where did the Gremlins go?
   
